@@ -1,5 +1,7 @@
 ## 100 Days of Code : Python
 100 Days of learnig Python and programming by doing something everyday.
+
+Duration : September 01, 2024 - November 30, 2024
 <details>
     <summary>Day 1 : Band Name Generator</summary>
     It's a basic band name generator by taking user inputs like Name and place of birth.  
@@ -15,4 +17,8 @@
 <details>
     <summary>Day 4 : Rock-Paper-Scissor</summary>
     Friends are not with you or another COVID, try this rock-paper-scissor when you are alone to test your luck.
+</details>
+<details>
+    <summary>Day 5 : Fizz-Buzz and Password Generator</summary>
+    Fun game of Fizz-Buzz and a password generator to help you chose strong password for your accounts.
 </details>
