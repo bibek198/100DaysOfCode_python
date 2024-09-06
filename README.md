@@ -22,3 +22,7 @@ Duration : September 01, 2024 - November 30, 2024
     <summary>Day 5 : Fizz-Buzz and Password Generator</summary>
     Fun game of Fizz-Buzz and a password generator to help you chose strong password for your accounts.
 </details>
+<details>
+    <summary>Day 6 : Sieve of Eratosthenes</summary>
+    Prints all the primes form 0 to a given number.
+</details>
