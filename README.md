@@ -26,3 +26,7 @@ Duration : September 01, 2024 - November 30, 2024
     <summary>Day 6 : Sieve of Eratosthenes</summary>
     Prints all the primes form 0 to a given number.
 </details>
+<details>
+    <summary>Day 7 : Hangman Game</summary>
+    Class hangman game is implemented using while loop and conditional statements.
+</details>
